@@ -1,43 +1,4 @@
-<style>
-  li {
-    display:block;
-    list-style-type: none;
-    margin:0;
-    box-sizing: border-box;
-    height:25%;
-  }
-
-  li:nth-child(odd) {
-    clear:both;
-    float:left;
-    width:50%;
-  }
-
-  .profile {
-      border-radius: 50%
-  }
-
-  .bg-white {
-      img {
-          background-color: rgba(255,255,255, 0.9);
-          padding: 2px;
-      }
-  }
-
-  .br-50 {
-    img {
-      border-radius: 50%;
-    }
-  }
-
-  .br-10px {
-    img {
-      border-radius: 10px;
-    }
-  }
-</style>
-
-## Hi!, I'm Francisco. <img class="profile" align="right" height="80" alt="fralot-profile-picture" src="https://avatars.githubusercontent.com/u/72283054?v=4">
+## Hi!, I'm Francisco. <img align="right" height="80" alt="fralot-profile-picture" src="https://avatars.githubusercontent.com/u/72283054?v=4">
 
 <a  href = "https://github.com/fralot" target="_blank" ><img  target="_blank" src="https://img.shields.io/github/followers/fralot?style=social"/></a>
 [![Twitter: fralot](https://img.shields.io/twitter/follow/francisco_kurt.svg?style=social)](https://twitter.com/francisco_kurt)
@@ -66,9 +27,9 @@
       MongoDB
       <img align="center" alt="fralot-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     </li>
-    <li class="bg-white br-10px">
+    <li>
       Express
-      <img class="bg-white" align="center" alt="fralot-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+      <img align="center" alt="fralot-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
     </li>
     <li>
       Jasmine
@@ -119,7 +80,7 @@
 
   ## Databases
   <ul>
-    <li class="bg-white br-10px">
+    <li>
       MySQL
       <img align="center" alt="fralot-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     </li>
@@ -171,7 +132,7 @@
       Git
       <img align="center" alt="fralot-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     </li>
-    <li class="bg-white br-50">
+    <li>
       GitHub
       <img align="center" alt="fralot-github" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     </li>
@@ -195,7 +156,7 @@
       .NET
       <img align="center" alt="fralot-dot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
     </li>
-    <li class="bg-white br-10px">
+    <li>
       NuGet
       <img align="center" alt="fralot-nuget" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original-wordmark.svg">
     </li>
