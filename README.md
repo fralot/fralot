@@ -2,14 +2,9 @@
 
 <a  href = "https://github.com/fralot" target="_blank" ><img  target="_blank" src="https://img.shields.io/github/followers/fralot?style=social"/></a>
 [![Twitter: fralot](https://img.shields.io/twitter/follow/francisco_kurt.svg?style=social)](https://twitter.com/francisco_kurt)
-<div style="display: inline_block" align="left">
-
-  <div>
-  <a href="https://github.com/fralot">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fralot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <br>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fralot&layout=compact&langs_count=16&theme=algolia"/>
-   </a>
+<div>
+      <img width="49%" height="260" src="https://github-readme-stats.vercel.app/api?username=fralot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fralot&layout=compact&langs_count=16&theme=algolia"/>
 </div>
  
 <div align="right" style="margin-top: 2rem"> 
