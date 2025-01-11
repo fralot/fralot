@@ -2,6 +2,32 @@
 
 <a  href = "https://github.com/fralot" target="_blank" ><img  target="_blank" src="https://img.shields.io/github/followers/fralot?style=social"/></a>
 [![Twitter: fralot](https://img.shields.io/twitter/follow/francisco_kurt.svg?style=social)](https://twitter.com/francisco_kurt)
+<div style="display: inline_block" align="left">
+
+  <div>
+  <a href="https://github.com/fralot">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fralot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fralot&layout=compact&langs_count=16&theme=algolia"/>
+   </a>
+</div>
+ 
+<div align="right" style="margin-top: 2rem"> 
+  <a href="https://www.youtube.com/@fralot" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/fralotdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:franciscolopez1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fralot" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ <div align="center" style="margin-top: 2rem;">
+   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fralot&column=-1&theme=gitdimmed&margin-w=30&margin-h=30&rank=-C,-B&title=-Issues,-Reviews" alt="imagen of github profile trophy" /></a></p>
+ </div>
+ 
+  ![Snake animation](https://raw.githubusercontent.com/fralot/fralot/8f827bc58c0c91458351337c18801b247b21b69e/snake.svg)
+ 
+</div>
+<br>
+<br>
+<hr>
 
 ## Skills:
 
@@ -165,31 +191,3 @@
       <img align="center" alt="fralot-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     </li>
   </ul>
-
-  <br>
-  <br>
-  <hr>
-
-<div style="display: inline_block" align="left">
-
-  <div>
-  <a href="https://github.com/fralot">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=fralot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fralot&layout=compact&langs_count=16&theme=algolia"/>
-   </a>
-</div>
- 
-<div align="right" style="margin-top: 2rem"> 
-  <a href="https://www.youtube.com/@fralot" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/fralotdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:franciscolopez1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fralot" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- <div align="center" style="margin-top: 2rem;">
-   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fralot&column=-1&theme=gitdimmed&margin-w=30&margin-h=30&rank=-C,-B&title=-Issues,-Reviews" alt="imagen of github profile trophy" /></a></p>
- </div>
- 
-  ![Snake animation](https://raw.githubusercontent.com/fralot/fralot/8f827bc58c0c91458351337c18801b247b21b69e/snake.svg)
- 
-</div>
