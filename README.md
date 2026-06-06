@@ -17,9 +17,6 @@
 <hr>
 <br>
 
-<div align="center" style="margin-top: 2rem;">
-      <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fralot&column=-1&theme=gitdimmed&margin-w=30&margin-h=30&rank=-C,-B&title=-Issues,-Reviews" alt="imagen of github profile trophy" /></a></p>
-</div>
 <br>
 <hr>
 <br>
