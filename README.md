@@ -13,18 +13,6 @@
 <hr>
 <br>
 
-<br>
-<hr>
-<br>
-
-<img align="center" width="100%" alt="Snake animation" src="https://raw.githubusercontent.com/fralot/fralot/8f827bc58c0c91458351337c18801b247b21b69e/snake.svg"/>
-
- 
-</div>
-<br>
-<br>
-<hr>
-
 ## Skills:
 
 ## JavaScript Ecosystem:
@@ -187,3 +175,11 @@
       <img align="center" alt="fralot-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     </li>
   </ul>
+
+<br>
+<hr>
+<br>
+<img align="center" width="100%" alt="Snake animation" src="https://raw.githubusercontent.com/fralot/fralot/8f827bc58c0c91458351337c18801b247b21b69e/snake.svg"/>
+<br>
+<hr>
+<br>
