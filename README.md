@@ -8,10 +8,6 @@
   <a href = "mailto:franciscolopez1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fralot" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<div>
-      <img align="top" width="49%" src="https://github-readme-stats.vercel.app/api?username=fralot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img align="top" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fralot&layout=compact&langs_count=16&theme=algolia"/>
-</div>
 
 <br>
 <hr>
